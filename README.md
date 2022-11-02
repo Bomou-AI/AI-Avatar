@@ -37,3 +37,12 @@ https://en.bomou.com/avatars/api?token={your token}
 &callback={callback this url at the end of video synthesis, video is ready for download}
 
 </pre>
+
+
+#Callback URL:
+
+<pre>
+
+https://yourcallbackurl?downloadurl={the download url for generated video }
+
+</pre>
