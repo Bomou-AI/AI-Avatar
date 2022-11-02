@@ -7,6 +7,8 @@ https://en.bomou.com/avatars/
 
 # Text to Video API:
 
+<pre>
+
 https://en.bomou.com/avatars/api?token={your token}
 &model_id={ your custom AI avatar id}
 &template_id={your custom AI avatar template/style id }
@@ -20,8 +22,11 @@ https://en.bomou.com/avatars/api?token={your token}
 &bgurl={ image or video url}
 &notify={callback this url at the end of video synthesis, video is ready for download}
 
+</pre>
 
 # Audio to Video API:
+
+<pre>
 
 https://en.bomou.com/avatars/api?token={your token}
 &model_id={ your custom AI avatar id}
@@ -31,3 +36,4 @@ https://en.bomou.com/avatars/api?token={your token}
 &bgurl={ image or video url}
 &notify={callback this url at the end of video synthesis, video is ready for download}
 
+</pre>
