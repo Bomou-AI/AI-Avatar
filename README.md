@@ -19,7 +19,7 @@ https://en.bomou.com/avatars/api?token={your token}
 &speaker_tone={ pitch of the tone: -10 to 10 }
 &text={ video script, plain text or with some tags}
 &pos={the avatar position/scale on the background image or video}
-&bgurl={ image or video url}
+&bgurl={ background image or video url}
 &callback={callback this url at the end of video synthesis, video is ready for download}
 
 </pre>
@@ -33,7 +33,7 @@ https://en.bomou.com/avatars/api?token={your token}
 &template_id={your custom AI avatar template/style id }
 &audio={audio url}
 &pos={the avatar position/scale on the background image or video}
-&bgurl={ image or video url}
+&bgurl={ background image or video url}
 &callback={callback this url at the end of video synthesis, video is ready for download}
 
 </pre>
