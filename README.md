@@ -20,7 +20,7 @@ https://en.bomou.com/avatars/api?token={your token}
 &text={ video script, plain text or with some tags}
 &pos={the avatar position/scale on the background image or video}
 &bgurl={ image or video url}
-&notify={callback this url at the end of video synthesis, video is ready for download}
+&callback={callback this url at the end of video synthesis, video is ready for download}
 
 </pre>
 
@@ -34,6 +34,6 @@ https://en.bomou.com/avatars/api?token={your token}
 &audio={audio url}
 &pos={the avatar position/scale on the background image or video}
 &bgurl={ image or video url}
-&notify={callback this url at the end of video synthesis, video is ready for download}
+&callback={callback this url at the end of video synthesis, video is ready for download}
 
 </pre>
